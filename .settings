@@ -1,5 +1,5 @@
 [editor]
-indent_with_tabs = false
+indent_with_tabs = true
 tab_size = 4
 ; enter your editor preferences here...
 
